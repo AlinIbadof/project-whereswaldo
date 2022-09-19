@@ -10,7 +10,7 @@ function Nav() {
   return (
     <div className="nav">
       <nav>
-        <p>Nav</p>
+        <p className="title">Where's Waldo?</p>
         <Link to={"/"} className="nav-links" style={linkStyle}>
           Home
         </Link>
