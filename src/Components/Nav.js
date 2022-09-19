@@ -8,7 +8,7 @@ function Nav() {
   };
 
   return (
-    <div>
+    <div className="nav">
       <nav>
         <p>Nav</p>
         <Link to={"/"} className="nav-links" style={linkStyle}>
