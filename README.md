@@ -4,7 +4,7 @@ This project presents a React implementation of the classic "Where's Waldo" game
 
 Currently, only one scene is implemented together with its functionality. The game should work on any screen size.
 
-Live Preview:
+Live Preview: https://alinibadof.github.io/project-whereswaldo/#/
 
 Future work:
 - implement more scenes;
