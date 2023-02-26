@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-whereswaldo/static/css/main.5d3dd9c2.css",
+    "main.js": "/project-whereswaldo/static/js/main.3271e5ee.js",
+    "index.html": "/project-whereswaldo/index.html",
+    "main.5d3dd9c2.css.map": "/project-whereswaldo/static/css/main.5d3dd9c2.css.map",
+    "main.3271e5ee.js.map": "/project-whereswaldo/static/js/main.3271e5ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3dd9c2.css",
+    "static/js/main.3271e5ee.js"
+  ]
+}
